@@ -181,17 +181,7 @@ Linux Fundamentals    ███████████████░░░░�
 
 </div>
 
----
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/djidelabdocs50-pixel/djidelabdocs50-pixel/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 <div align="center">
 
